@@ -129,7 +129,7 @@ export default function Home() {
   return (
     <div className="container py-5">
       <div className="alert alert-dark" role="alert">
-        <h2>CRUD Basic NextJS Bootstrap + NodeJS MySQL</h2>
+        <h2>CRUD Basic NextJS Bootstrap + MySQL</h2>
       </div>
       <div className="row g-4">
         <div className="col-lg-4 col-md-5">

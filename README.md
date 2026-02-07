@@ -46,7 +46,6 @@ npm install bootstrap mysql2 sweetalert2
 ### 3. Clone โปรเจกต์
 ```bash
 git clone [https://github.com/663170010318/crud-nextjs-nodejs-mysql.git](https://github.com/663170010318/crud-nextjs-nodejs-mysql.git)
-cd crud-nextjs-nodejs-mysql
 ```
 
 ### 4. ติดตั้ง SQL ที่ให้ src\sql

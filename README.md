@@ -1,4 +1,4 @@
-# 🚀 Next.js + NodeJS + MySQL CRUD System
+# 🚀 Next.js + NodeJS + MySQL CRUD
 
 - ✅ **Create**: เพิ่มสมาชิกใหม่พร้อมอัปโหลดรูปภาพ
 - ✅ **Read**: ดึงข้อมูลจาก MySQL มาแสดงผลในรูปแบบตาราง
@@ -19,7 +19,7 @@
 ---
 
 ## 🛠️ เทคโนโลยีที่ใช้ (Tech Stack)
-* **Framework**: Next.js 14/15 (App Router)
+* **Framework**: Next.js (App Router)
 * **Runtime**: Node.js
 * **Database**: MySQL (Library: `mysql2`)
 * **Styling**: Bootstrap 5
@@ -33,12 +33,13 @@
 
 ### 1. สร้างโปรเจกต์ Next.js
 ```bash
-cd crud-nextjs-nodejs-mysql app
+npx crud-nextjs-nodejs-mysql app
 ```
 เลือกค่าดังนี้: TypeScript: No | ESLint: Yes | Tailwind CSS: No | src/: Yes | App Router: Yes
 
 ### 2. ติดตั้ง Library ที่จำเป็น
 ```bash
+cd app
 npm install bootstrap mysql2 sweetalert2
 ```
 

@@ -33,7 +33,7 @@
 
 ### 1. สร้างโปรเจกต์ Next.js
 ```bash
-npx crud-nextjs-nodejs-mysql app
+npx create-next-app@latest app
 ```
 เลือกค่าดังนี้: TypeScript: No | ESLint: Yes | Tailwind CSS: No | src/: Yes | App Router: Yes
 
